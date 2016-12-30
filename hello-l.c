@@ -1,5 +1,5 @@
 /*
- * hello-l.c - The simplest kernel module. w
+ * hello-l.c - The simplest kernel module. 
  */
 #include <linux/module.h>
 #include <linux/kernel.h>
